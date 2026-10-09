@@ -18,7 +18,7 @@ class MainApp:
         self.log_count = 0
 
         # Google Form beállítások
-        self.GF_FORM_ID = "1FAIpQLSeEDZwDvvDVXR6qheQjYTj3pimh5RJX8d0OCtpLgFjGWeefRA"
+        self.GF_FORM_ID = "xxxxxx"
         self.GF_USER_ID = "1701880874"
         self.GF_ENTRY_SERIAL_ID = "262317029"
         self.GF_PRODUCT = "104131889"
